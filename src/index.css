@@ -1,0 +1,17 @@
+body {
+  margin: 0px;
+}
+.corpo {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center
+}
+.caixa{
+  background-color: gainsboro;
+  width:450px;
+  height: 350px;
+  border-style: solid black;
+}
